@@ -1,0 +1,28 @@
+# ADS/Tasking output
+Debug/
+release/
+*.elf
+*.hex
+*.map
+*.lst
+*.obj
+*.o
+*.d
+*.src
+*.mdf
+*.opt
+
+# Local settings
+.settings/
+*.launch
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Project local search indexes or similar
+.launches/
+.metadata/
